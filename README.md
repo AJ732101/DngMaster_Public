@@ -16,3 +16,15 @@ DngMaster ist an Android app to edit DNGs (Adobes Digital Negative aka RAW from 
 ## Dependencies
 * [LibRaw](https://www.libraw.org/download)
 * OpenCV (only with special build as this raises APK size by far)
+
+## Screenshots
+<table>
+  <tr>
+    <td><img src="Screenshots/MainWindow.jpg" width="100%" alt="Settings 1"></td>
+    <td><img src="Screenshots/Settings1.jpg" width="100%" alt="Settings 2"></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/Settings2.jpg" width="100%" alt="Settings 3"></td>
+    <td><img src="Screenshots/Settings3.jpg" width="100%" alt="Settings 4"></td>
+  </tr>
+</table>
