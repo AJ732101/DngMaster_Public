@@ -1,6 +1,8 @@
 # Purpose
 DngMaster ist an Android app to edit DNGs (Adobes Digital Negative aka RAW from mobile devices)
 
+**Requires Android API Version 33 (Android 13 -Tiramisu) or higher**
+
 ## Features
 * Open and edit DNG files
 * Open and edit WebP files
