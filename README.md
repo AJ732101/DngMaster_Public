@@ -36,6 +36,9 @@ DngMaster ist an Android app to edit DNGs (Adobes Digital Negative aka RAW from 
 * About Button: show/hide histogram
 * Settings Button: reset app settings (every parameter behind the settings menu)
 * On image: resets the postprocessing (shader/OpenCV) settings
+<p align="center">
+  <img src="Screenshots/LongpressActions.jpg" width="800">
+</p>
 
 ## Gestures
 * Two Fingers: tapping with two finges in the image unprocessed version is shown (processed after fingers released again)
