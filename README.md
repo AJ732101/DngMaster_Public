@@ -28,3 +28,16 @@ DngMaster ist an Android app to edit DNGs (Adobes Digital Negative aka RAW from 
     <td><img src="Screenshots/Settings3.jpg" width="100%" alt="Settings 4"></td>
   </tr>
 </table>
+
+## Longpress Actions
+* Open Button: saves current post processing (not the app settngs like the ones of LibRaw)
+* Preset Button: saves the current post processing settings as named preset
+* DNG & YUV RAW Button: shows the currently set pathes
+* About Button: show/hide histogram
+* Settings Button: reset app settings (every parameter behind the settings menu)
+* On image: resets the postprocessing (shader/OpenCV) settings
+
+## Gestures
+* Two Fingers: tapping with two finges in the image unprocessed version is shown (processed after fingers released again)
+* Swipe Left: next image (if this forder was given permission/access)
+* Swipe Right: previous image (if this forder was given permission/access)
