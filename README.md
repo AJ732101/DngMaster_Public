@@ -14,6 +14,7 @@ DngMaster ist an Android app to edit DNGs (Adobes Digital Negative aka RAW from 
 * Create and use presets
 * Save processing of an image
 * Settings & processing persited in metadata
+* Show enhanced metadata
 
 ## Dependencies
 * [LibRaw](https://www.libraw.org/download)
@@ -46,3 +47,5 @@ DngMaster ist an Android app to edit DNGs (Adobes Digital Negative aka RAW from 
 * Two Fingers: tapping with two finges in the image unprocessed version is shown (processed after fingers released again)
 * Swipe Left: next image (if this forder was given permission/access)
 * Swipe Right: previous image (if this forder was given permission/access)
+* Tap on metadata info at the top: open Metadata Inspector
+* Doubletap on image: zoom to 1:1 view (and back)
