@@ -18,7 +18,7 @@ DngMaster ist an Android app to edit DNGs (Adobes Digital Negative aka RAW from 
 
 ## Dependencies
 * [LibRaw](https://www.libraw.org/download)
-* OpenCV (only with special build as this raises APK size by far)
+* OpenCV (only with [special build]([url](https://t.me/PhotonVidCam/152)) as this raises APK size by far, APK too big for GitHub)
 
 ## Screenshots
 <table>
@@ -32,6 +32,14 @@ DngMaster ist an Android app to edit DNGs (Adobes Digital Negative aka RAW from 
   </tr>
 </table>
 
+## Gestures
+* Tap on image: show/hide post processing sliders
+* Two Fingers: tapping with two finges in the image unprocessed version is shown (processed after fingers released again)
+* Swipe Left: next image (if this forder was given permission/access)
+* Swipe Right: previous image (if this forder was given permission/access)
+* Tap on metadata info at the top: open Metadata Inspector
+* Doubletap on image: zoom to 1:1 view (and back)
+
 ## Longpress Actions
 * Open Button: saves current post processing (not the app settngs like the ones of LibRaw)
 * Preset Button: saves the current post processing settings as named preset
@@ -42,10 +50,3 @@ DngMaster ist an Android app to edit DNGs (Adobes Digital Negative aka RAW from 
 <p align="center">
   <img src="Screenshots/LongpressActions.jpg" width="800">
 </p>
-
-## Gestures
-* Two Fingers: tapping with two finges in the image unprocessed version is shown (processed after fingers released again)
-* Swipe Left: next image (if this forder was given permission/access)
-* Swipe Right: previous image (if this forder was given permission/access)
-* Tap on metadata info at the top: open Metadata Inspector
-* Doubletap on image: zoom to 1:1 view (and back)
