@@ -21,6 +21,8 @@ DngMaster ist an Android app to edit DNGs (Adobes Digital Negative aka RAW from 
 ## Dependencies
 * [LibRaw](https://www.libraw.org/download)
 * OpenCV (versions without OpenCV in name do not contain it)
+* [jxl-coder](https://github.com/awxkee/jxl-coder)
+* [metadata-extractor](https://github.com/drewnoakes/metadata-extractor)
 
 ## Screenshots
 <table>
