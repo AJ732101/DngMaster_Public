@@ -4,9 +4,10 @@ DngMaster ist an Android app to edit DNGs (Adobes Digital Negative aka RAW from 
 **Requires Android API Version 33 (Android 13 -Tiramisu) or higher**
 
 ## Features
-* Open and edit DNG files
+* Open and edit DNG files (basic support for JXL as payload)
 * Open and edit WebP files
 * Open and edit HEIC/HEIF files
+* Open and edit JPEG-XL (JXL, up to 16 bit and HDR)
 * Open and edit YUV pseudo RAW created with PhotonVidCam
 * Shader based processing
 * 10 bit histogram
@@ -15,6 +16,7 @@ DngMaster ist an Android app to edit DNGs (Adobes Digital Negative aka RAW from 
 * Save processing of an image
 * Settings & processing persited in metadata
 * Show enhanced metadata
+* Extract embedded previews
 
 ## Dependencies
 * [LibRaw](https://www.libraw.org/download)
@@ -47,6 +49,7 @@ DngMaster ist an Android app to edit DNGs (Adobes Digital Negative aka RAW from 
 * About Button: show/hide histogram
 * Settings Button: reset app settings (every parameter behind the settings menu)
 * On image: resets the postprocessing (shader/OpenCV) settings
+* Metadata OSD: opens a visualization of a HDR gain map (if included in a JPEG)
 <p align="center">
   <img src="Screenshots/LongpressActions.jpg" width="800">
 </p>
