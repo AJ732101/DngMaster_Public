@@ -50,6 +50,7 @@ DngMaster ist an Android app to edit DNGs (Adobes Digital Negative aka RAW from 
 * Settings Button: reset app settings (every parameter behind the settings menu)
 * On image: resets the postprocessing (shader/OpenCV) settings
 * Metadata OSD: opens a visualization of a HDR gain map (if included in a JPEG)
+* Export Button: extract embedded previews (opens a selection dialog after the export)
 <p align="center">
   <img src="Screenshots/LongpressActions.jpg" width="800">
 </p>
