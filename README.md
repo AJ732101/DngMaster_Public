@@ -15,7 +15,7 @@ DngMaster ist an Android app to edit DNGs (Adobes Digital Negative aka RAW from 
 * Create and use presets
 * Save processing of an image
 * Settings & processing persited in metadata
-* Show enhanced metadata
+* Show enhanced metadata (bitness, whitelevel, blacklevel, photometric type)
 * Extract embedded previews
 
 ## Dependencies
